@@ -15,7 +15,7 @@ This is my first GitHub repository where I’ll start uploading my learning prog
 - Python
 - Git & GitHub
 - Data Structures & Algorithms
-- Web Development
+- Web Development (future goal)
 - AI/ML (future goal)
 
 This repository marks the beginning of my tech journey. 🚀
